@@ -62,22 +62,22 @@
                             </div>
                             <div class="col-6">
                                 <textarea class="form-control" id="basic-input" style="font-size: 10px" rows="15" disabled>
-{
-  "id" : 1,
-  "f_name" : "john",
-  "l_name" : "doe",
-  "email" : "someemai@hms.com",
-  "phone" : "1234567790",
-  "address" : {
-    "id" : 1,
-    "address1" : "1313 Meadow Creek",
-    "address2" : "APT ###",
-    "city" : "Irving",
-    "state" : "TX"
-  },
-  "dob" : 1614712379610,
-  "balance" : 1234
-}
+                                    {
+                                      "id" : 1,
+                                      "f_name" : "john",
+                                      "l_name" : "doe",
+                                      "email" : "someemai@hms.com",
+                                      "phone" : "1234567790",
+                                      "address" : {
+                                        "id" : 1,
+                                        "address1" : "1313 Meadow Creek",
+                                        "address2" : "APT ###",
+                                        "city" : "Irving",
+                                        "state" : "TX"
+                                      },
+                                      "dob" : 1614712379610,
+                                      "balance" : 1234
+                                    }
                                 </textarea>
                             </div>
                             <div class="col-6">
@@ -103,22 +103,22 @@
                             </div>
                             <div class="col-6">
                                 <textarea class="form-control" id="adv-input" style="font-size: 10px" rows="15" disabled>
-{
-  "id" : 1,
-  "f_name" : "john",
-  "l_name" : "doe",
-  "email" : "someemai@hms.com",
-  "phone" : "1234567790",
-  "address" : {
-    "id" : 1,
-    "address1" : "1313 Meadow Creek",
-    "address2" : "APT ###",
-    "city" : "Irving",
-    "state" : "TX"
-  },
-  "dob" : 1614712379610,
-  "balance" : 1234
-}
+                                    {
+                                      "id" : 1,
+                                      "f_name" : "john",
+                                      "l_name" : "doe",
+                                      "email" : "someemai@hms.com",
+                                      "phone" : "1234567790",
+                                      "address" : {
+                                        "id" : 1,
+                                        "address1" : "1313 Meadow Creek",
+                                        "address2" : "APT ###",
+                                        "city" : "Irving",
+                                        "state" : "TX"
+                                      },
+                                      "dob" : 1614712379610,
+                                      "balance" : 1234
+                                    }
                                 </textarea>
                             </div>
                             <div class="col-6">
